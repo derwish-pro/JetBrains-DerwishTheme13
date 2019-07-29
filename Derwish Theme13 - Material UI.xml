@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>DerwishTheme13</id>
+  <editorColorsScheme>Derwish Theme13</editorColorsScheme>
+  <dark>true</dark>
+  <name>Derwish Theme13</name>
+  <colors>
+    <color id="background" value="181a1fff"/>
+    <color id="foreground" value="ede6e4ff"/>
+    <color id="text" value="ede6e4ff"/>
+    <color id="highlight" value="3f464fff"/>
+    <color id="selectionBackground" value="3a4248ff"/>
+    <color id="selectionForeground" value="ede6e4ff"/>
+    <color id="button" value="2e3c43ff"/>
+    <color id="secondaryBackground" value="1d1f24ff"/>
+    <color id="disabled" value="3c4449ff"/>
+    <color id="contrast" value="181a1fff"/>
+    <color id="tableSelected" value="30363cff"/>
+    <color id="secondBorder" value="2f3236ff"/>
+    <color id="treeSelection" value="444d58ff"/>
+    <color id="notifications" value="21252bff"/>
+    <color id="accent" value="009688ff"/>
+    <color id="excluded" value="2e3c43ff"/>
+  </colors>
+  <themeId>DerwishTheme13</themeId>
+</mtTheme>
