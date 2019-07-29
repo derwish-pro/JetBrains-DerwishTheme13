@@ -12,5 +12,5 @@ Steps to install:
   
 Also, you can download this theme for:  
 [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=derwish.derwish-theme13)  
-[Directory Opus](https://resource.dopus.com/t/derwish-theme13/33161)  
+[Directory Opus](https://resource.dopus.com/t/derwish-theme13)  
 
