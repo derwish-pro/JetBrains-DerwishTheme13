@@ -13,4 +13,4 @@ Steps to install:
 Also, you can download this theme for:  
 [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=derwish.derwish-theme13)  
 [Directory Opus](https://resource.dopus.com/t/derwish-theme13)  
-
+[PotPlayer](https://potplayer.daum.net/forum/viewtopic.php?f=11&t=20924)  
