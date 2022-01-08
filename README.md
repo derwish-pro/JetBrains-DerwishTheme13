@@ -1,6 +1,6 @@
 # Derwish Theme13 color theme for JetBrains Rider
 
-![screen](https://raw.githubusercontent.com/dy-sh/JetBrains-DerwishTheme13/master/screen.png)
+![screen](https://github.com/dy-sh/jetbrains-theme13/raw/master/screen.png)
   
   
 Steps to install:
